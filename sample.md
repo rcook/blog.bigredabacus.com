@@ -1,7 +1,8 @@
 ---
-permalink: /sample/
 title: My first Tableau vizzes
-created: 2015-01-27 10:18:00 -0800
+permalink: /sample/
+layout: default
+date: 2015-01-27 10:18:00 -0800
 tags:
 - Tableau
 - Visualization
